@@ -8,7 +8,7 @@
 
 <img src="https://github.com/dbeaver/dbeaver/wiki/images/dbeaver-icon-64x64.png" align="right"/>
 
-# DBeaver
+# DBeaver on FreeBSD
 
 Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.  
 Supports any database which has JDBC driver (which basically means - ANY database). 
